@@ -1,4 +1,4 @@
-# Automatische Übernahme des Vornamens beim Antworten
+# Automatische Übernahme des Vornamens beim Antworten in Outlook 2016
 
 Getestet in Outook 2016
 
